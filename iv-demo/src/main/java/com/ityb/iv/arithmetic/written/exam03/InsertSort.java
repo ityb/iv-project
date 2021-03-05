@@ -1,8 +1,7 @@
 package com.ityb.iv.arithmetic.written.exam03;
+
 /**
- * ��������
- * @author Administrator
- *
+ * 插入排序
  */
 public class InsertSort {
 	public static   void sort(int array[]){
@@ -10,15 +9,14 @@ public class InsertSort {
 			return;
 		}
 		for(int i=1;i<array.length;i++){
-			int temp=array[i];//����һ���м����������ÿ����Ҫ�����ֵ
-			int j=i;//����һ������ָ��
-			if(array[j-1]>temp){//�����ж�ǰһ���Ƿ�������ڲ����ֵ
+			int temp=array[i];
+			int j=i;
+			if(array[j-1]>temp){
 				while(j>=1&&array[j-1]>temp){
-					array[j]=array[j-1];//��ֵ�����
-					j--;//ָ����ǰɨ
+					array[j]=array[j-1];
+					j--;
 				}
 			}
-			//���в���
 			array[j]=temp;
 		}
 	}

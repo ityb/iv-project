@@ -1,5 +1,8 @@
 package com.ityb.iv.arithmetic.written.exam02;
 
+/**
+ * 链表合并
+ */
 public class Function {
 	public static Node merge(Node head1,Node head2){
 		if(head1==null){
@@ -13,19 +16,11 @@ public class Function {
 		Node p1;
 		Node p2;
 		Node pcur;
-		/**
-		 * ѡȡhead1��Ϊͷ
-		 * ����head1������ֵ
-		 */
 		if(head1.getData()<head2.getData()){
 			head=head1;
 			p1=head1.getNext();
 			p2=head2;
 		
-		/**
-		 * ѡȡhead2��Ϊͷ
-		 * ����head2������ֵ
-		 */
 		}else{
 			head=head2;
 			p1=head2.getNext();
@@ -42,9 +37,6 @@ public class Function {
 				pcur=p2;//pcur=p2
 				p2=p2.getNext();//p2=p2->next;
 			}
-			/**
-			 * ���p1�б���С��p2�ĳ��ȣ���ֱ�ӽ�p2����Ľڵ����pcur�ĺ���
-			 */
 			if(p1!=null){
 				pcur.setNext(p1);
 			}

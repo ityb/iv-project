@@ -3,13 +3,10 @@ package com.ityb.iv.arithmetic.written.exam01;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * �õݹ����ʽ��N!
- * 
- * @author Administrator
- *
- */
 
+/**
+ * 计算N! n的阶乘
+ */
 public class Jiecheng {
 
 	public static long jisuanJC(long n) {
