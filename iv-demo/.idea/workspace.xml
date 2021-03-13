@@ -1,48 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="jar://E:/repository/org/springframework/spring-beans/5.1.7.RELEASE/spring-beans-5.1.7.RELEASE-sources.jar!/org/springframework/beans/factory/config/AutowireCapableBeanFactory.java" description="* methods, either for new instances or for deseria..." line="144" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ec63f3ad-4184-41a7-a0c4-7523a2d12ba5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/sort/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/sort/HeapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/sort/InsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/sort/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/sort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/sort/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/written/exam01/Jiecheng.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/written/exam02/Function.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/written/exam02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/written/exam02/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/written/exam03/InsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/written/exam03/SubStr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/written/exam05/SelectSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/written/exam05/Singleton01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/written/exam05/Singleton02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/written/exam05/Singleton03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/written/exam07/intersection/Intersection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/written/exam07/intersection/MySet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/written/exam08/MyExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/design/mode/dynamicProxy/CglibDynamicProxyDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/design/mode/dynamicProxy/JdkDynamicProxyDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/design/mode/dynamicProxy/proxy/MapperInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/design/mode/dynamicProxy/proxy/MapperProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/design/mode/dynamicProxy/proxy/ProxyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/design/mode/dynamicProxy/proxy/UserEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/design/mode/factory/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/design/mode/factory/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/design/mode/factory/Beef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/design/mode/factory/FactoryProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/design/mode/factory/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/design/mode/factory/FoodFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/design/mode/factory/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/design/mode/factory/FruitFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/design/mode/factory/Pear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/design/mode/factory/Pork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/design/mode/factory/TestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/design/mode/factory/抽象工厂设计模式.uml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/productorAndConsumer/ProducterAndConsumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/BinSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/GetLeastNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/ListHasCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/ListLastKNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/LockNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/MaxSubstringLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/MergeTwoList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/MirrorTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/ReverseListByKGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/StockTrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/TopN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/TopNDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ityb/iv/tree/TreeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ityb/iv/tree/TreeList.java" afterDir="false" />
+    </list>
+    <list id="3995ae23-7b23-4eb4-bae2-c0f419045d1a" name="noSubmit" comment="">
       <change beforePath="$PROJECT_DIR$/target/classes/com/ityb/iv/sort/MergeSort.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/ityb/iv/sort/QuickSort.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/ityb/iv/tree/CompleteTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ityb/iv/tree/CompleteTree.class" afterDir="false" />
@@ -58,98 +37,135 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/written/exam05/Singleton03.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/GetLeastNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="308">
+              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/productorAndConsumer/ProducterAndConsumer.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/MergeTwoList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="175">
+              <caret line="71" column="20" lean-forward="true" selection-start-line="48" selection-start-column="8" selection-end-line="71" selection-end-column="20" />
+              <folding>
+                <element signature="e#385#386#0" expanded="true" />
+                <element signature="e#421#422#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/design/mode/dynamicProxy/proxy/MapperProxy.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/TopN.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <state relative-caret-position="242">
+              <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/design/mode/dynamicProxy/JdkDynamicProxyDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/TopNDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-440">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            <state relative-caret-position="506">
+              <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/design/mode/factory/Apple.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/StockTrade.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="418">
+              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/design/mode/factory/Beef.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/ListLastKNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="370">
+              <caret line="28" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
+              <folding>
+                <element signature="e#204#205#0" expanded="true" />
+                <element signature="e#242#243#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/written/exam02/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/MaxSubstringLength.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="326">
+              <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/written/exam01/Jiecheng.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/MirrorTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            <state relative-caret-position="132">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#208#209#0" expanded="true" />
+                <element signature="e#238#239#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/written/exam07/intersection/MySet.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/tree/TreeList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+            <state relative-caret-position="197">
+              <caret line="134" column="13" lean-forward="true" selection-start-line="134" selection-start-column="13" selection-end-line="134" selection-end-column="13" />
+              <folding>
+                <element signature="e#2516#2526#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/design/mode/dynamicProxy/proxy/ProxyTest.java">
+        <entry file="jar://E:/devtools/windows/jdk1.8.0_181/src.zip!/java/util/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="169">
+              <caret line="694" column="19" selection-start-line="694" selection-start-column="19" selection-end-line="694" selection-end-column="19" />
+              <folding>
+                <element signature="e#20770#20771#0" expanded="true" />
+                <element signature="e#20799#20800#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>s</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -159,6 +175,22 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/ityb/iv/mode/factory/FoodFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/sort/HeapSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/ReverseListByK.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/ReverseList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/ReverseListByKGroup.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/ListHasCycle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/written/GetLeastNumbers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/GetLeastNumbers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/MaxSubstringLength.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/BinSearch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/LockNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/MirrorTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/StockTrade.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/ListLastKNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/TopNDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/TopN.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/MergeTwoList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ityb/iv/tree/TreeList.java" />
       </list>
     </option>
   </component>
@@ -189,13 +221,20 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614871627434" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1615647752269" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ityb.iv.arithmetic" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\project\idea-project\iv-project\iv-demo\src\main\java\com\ityb\iv" />
     </key>
@@ -212,13 +251,65 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Beef" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ityb.iv.mode.factory.Beef" />
+  <component name="RunManager" selected="Application.MergeTwoList">
+    <configuration name="BinSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ityb.iv.arithmetic.BinSearch" />
       <module name="iv-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ityb.iv.mode.factory.*" />
+          <option name="PATTERN" value="com.ityb.iv.arithmetic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LockNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ityb.iv.arithmetic.LockNumber" />
+      <module name="iv-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ityb.iv.arithmetic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeTwoList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ityb.iv.arithmetic.MergeTwoList" />
+      <module name="iv-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ityb.iv.arithmetic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ityb.iv.arithmetic.TopN" />
+      <module name="iv-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ityb.iv.arithmetic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopNDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ityb.iv.arithmetic.TopNDemo" />
+      <module name="iv-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ityb.iv.arithmetic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,7 +319,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Beef" />
+        <item itemvalue="Application.MergeTwoList" />
+        <item itemvalue="Application.TopNDemo" />
+        <item itemvalue="Application.TopN" />
+        <item itemvalue="Application.LockNumber" />
+        <item itemvalue="Application.BinSearch" />
       </list>
     </recent_temporary>
   </component>
@@ -238,143 +333,88 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ec63f3ad-4184-41a7-a0c4-7523a2d12ba5" name="Default Changelist" comment="" />
+      <changelist id="3995ae23-7b23-4eb4-bae2-c0f419045d1a" name="noSubmit" comment="" />
       <created>1614868606753</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614868606753</updated>
-      <workItem from="1614868610687" duration="1892000" />
+      <workItem from="1614868610687" duration="2986000" />
+      <workItem from="1615555749017" duration="596000" />
+      <workItem from="1615598453585" duration="21409000" />
     </task>
+    <task id="LOCAL-00001" summary="面试算法">
+      <created>1614871724482</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614871724482</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1892000" />
+    <option name="totallyTimeSpent" value="24991000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25751072" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32963374" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946353" weight="0.32963374" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946353" visible="true" weight="0.39955604" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49946353" weight="0.32963374" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5005365" side_tool="true" weight="0.32963374" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32963374" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="面试算法" />
+    <option name="LAST_COMMIT_MESSAGE" value="面试算法" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>array[i]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>array[j]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/skiplist/SkipListMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/cacheStrategy/LRU.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/mode/dynamicProxy/proxy/UserEntity.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/mode/factory/Pork.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/mode/dynamicProxy/proxy/MapperInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/written/exam02/Function.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/mode/dynamicProxy/CglibDynamicProxyDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-462" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/mode/factory/AbstractFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/mode/factory/Beef.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/mode/factory/FactoryProducer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/mode/dynamicProxy/JdkDynamicProxyDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/mode/factory/FoodFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/mode/factory/Food.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/sort/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/mode/factory/FactoryProducer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/mode/dynamicProxy/JdkDynamicProxyDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/mode/factory/FoodFactory.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/mode/factory/Food.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/sort/HeapSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
@@ -390,13 +430,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/sort/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/sort/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -466,24 +499,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/design/mode/dynamicProxy/proxy/ProxyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/design/mode/dynamicProxy/proxy/MapperProxy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/design/mode/dynamicProxy/JdkDynamicProxyDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-440">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -508,13 +527,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/written/exam01/Jiecheng.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/written/exam07/intersection/MySet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
@@ -522,12 +534,334 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/design/mode/dynamicProxy/proxy/ProxyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/sort/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/design/mode/dynamicProxy/proxy/MapperInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/design/mode/dynamicProxy/JdkDynamicProxyDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-173">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/design/mode/dynamicProxy/CglibDynamicProxyDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-528" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/cacheStrategy/LRU.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="118" column="38" selection-start-line="118" selection-start-column="38" selection-end-line="118" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/written/exam03/SubStr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-594" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/written/exam03/InsertSort.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/written/exam02/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/written/exam01/Jiecheng.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/ReverseListByKGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="5" selection-start-line="4" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/ListHasCycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <folding>
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/ReverseList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="32" />
+          <folding>
+            <element signature="e#1849#1850#0" expanded="true" />
+            <element signature="e#1876#1877#0" expanded="true" />
+            <element signature="e#1913#1914#0" expanded="true" />
+            <element signature="e#1945#1946#0" expanded="true" />
+            <element signature="e#1974#1975#0" expanded="true" />
+            <element signature="e#2001#2002#0" expanded="true" />
+            <element signature="e#2039#2040#0" expanded="true" />
+            <element signature="e#2071#2072#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/sort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="41" column="22" lean-forward="true" selection-start-line="39" selection-start-column="8" selection-end-line="41" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/devtools/windows/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="3798" column="30" selection-start-line="3798" selection-start-column="30" selection-end-line="3798" selection-end-column="30" />
+          <folding>
+            <element signature="e#177013#177014#0" expanded="true" />
+            <element signature="e#177054#177055#0" expanded="true" />
+            <element signature="e#224394#224395#0" expanded="true" />
+            <element signature="e#224447#224448#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/devtools/windows/jdk1.8.0_181/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="5397" column="30" selection-start-line="5397" selection-start-column="30" selection-end-line="5397" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/devtools/windows/jdk1.8.0_181/src.zip!/java/util/stream/Collectors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="228" column="29" selection-start-line="228" selection-start-column="29" selection-end-line="228" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/devtools/windows/jdk1.8.0_181/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="150" column="11" selection-start-line="150" selection-start-column="11" selection-end-line="150" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/BinSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/LockNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/ListLastKNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/StockTrade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/TopNDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/TopN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/MaxSubstringLength.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/GetLeastNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/MergeTwoList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="71" column="20" lean-forward="true" selection-start-line="48" selection-start-column="8" selection-end-line="71" selection-end-column="20" />
+          <folding>
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/arithmetic/MirrorTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/devtools/windows/jdk1.8.0_181/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="694" column="19" selection-start-line="694" selection-start-column="19" selection-end-line="694" selection-end-column="19" />
+          <folding>
+            <element signature="e#20770#20771#0" expanded="true" />
+            <element signature="e#20799#20800#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ityb/iv/tree/TreeList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="134" column="13" lean-forward="true" selection-start-line="134" selection-start-column="13" selection-end-line="134" selection-end-column="13" />
+          <folding>
+            <element signature="e#2516#2526#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>iv-demo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
